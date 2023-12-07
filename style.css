@@ -1,0 +1,164 @@
+body{
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)), url(image.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.retreivedata{
+    display: none;
+}
+
+.g-signin2{
+    position: absolute;
+    margin-top: 10px;
+}
+
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+}
+
+.login-left{
+    background: rgba(211,211,211,0.5);
+    padding: 30px;
+}
+
+.login-right{
+    background: #fff;
+    padding: 30px;
+}
+
+.form-control{
+    background-color: transparent !important;
+}
+
+.logout{
+    color: #fff;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 3px;
+    background: #4C5FB2;
+}
+
+.view{
+    color: #fff;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 3px;
+    background: #4C5FB2;
+}
+
+.dummy{
+    color: #fff;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 3px;
+    background: #4C5FB2;
+}
+
+.stylebuttons{
+    text-align: right;
+    padding: 20px;
+}
+.dummy:hover{
+    background-color: #1A2E86;
+    color: #fff;
+}
+
+.view:hover{
+    background-color: #1A2E86;
+    color: #fff;
+}
+
+.logout:hover{
+    background-color: #1A2E86;
+    color: #fff;
+}
+
+.signout_details{
+    color: #fff;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 3px;
+    background: #4C5FB2;
+}
+
+.edit_details{
+    color: #fff;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 3px;
+    background: #4C5FB2;
+}
+
+.signout_details:hover{
+    background-color: #1A2E86;
+    color: #fff;
+}
+
+.edit_details:hover{
+    background-color: #1A2E86;
+    color: #fff;
+}
+
+.newLinkButtons{
+    text-align: right;
+    padding: 20px;
+}
+
+.loginbuttons{
+    text-align: right;
+    padding: 20px;
+}
+
+h1{
+    color: #fff !important;
+    margin-top: 200px !important;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+button{
+    margin-top: 20px !important;
+}
+
+input{
+    margin-top: 5px !important;
+}
+
+label{
+    margin-top: 15px !important;
+}
+
+.details-box{
+    background: rgba(211,211,211,0.5);
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+    margin-top: 200px !important;
+}
+
+.style_label{
+    font-weight: bold !important;
+}
+
+.fb{
+    background-color: #3B5998;
+    color: white;
+}
+
+.google{
+    background-color: #dd4b39;
+    color: white;
+}
